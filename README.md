@@ -68,11 +68,11 @@ Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada:
 
 > Em constante evolução conforme novos conhecimentos são adquiridos.
 
-🔹 **[Projeto 1](https://github.com/David-Moraes-dev/VisualG/blob/main/SISTEMA-BANCARIO.ALG)** — Sistema bancário feito em VisualG para aprimorar a lógica de programação. Cadastro, autenticação, transferência, exclusão de contas...
+🔹 **[Sistema bancário](https://github.com/David-Moraes-dev/VisualG/blob/main/SISTEMA-BANCARIO.ALG)** — Sistema bancário feito em VisualG para aprimorar a lógica de programação. Cadastro, autenticação, transferência, exclusão de contas...
 <br>
-🔹 **[Projeto 2](https://github.com/David-Moraes-dev/VisualG/blob/main/SISTEMA-DE-BIBLIOTECA.ALG)** — Sistema de biblioteca feito em VisualG para aprimorar a lógica de programação. Devolução, cadastro de livros, empréstimo de livros...
+🔹 **[Sistema de biblioteca](https://github.com/David-Moraes-dev/VisualG/blob/main/SISTEMA-DE-BIBLIOTECA.ALG)** — Sistema de biblioteca feito em VisualG para aprimorar a lógica de programação. Devolução, cadastro de livros, empréstimo de livros...
 <br>
-🔹 **[Projeto 3](https://github.com/David-Moraes-dev/Coffee-House-HTML-e-CSS)** — Página utilizando apenas HTML e CSS de uma cafeteria fictícia.
+🔹 **[Página Cafeteria](https://github.com/David-Moraes-dev/Coffee-House-HTML-e-CSS)** — Página utilizando apenas HTML e CSS de uma cafeteria fictícia.
 
 ---
 
