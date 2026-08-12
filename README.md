@@ -78,7 +78,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     height="180em"
     src="https://github-readme-stats.shion.dev/api?username=David-Moraes-dev&show_icons=true&theme=dark"
