@@ -92,16 +92,6 @@ Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada:
 
 ---
 
-## 🌱 Em aprendizado
-
-<p align="left">
-
-`HTML`; `CSS` ; `Git` ; `GitHub` ; `Inglês`
-
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="center">
