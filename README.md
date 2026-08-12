@@ -78,22 +78,23 @@ Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img
+<p>
+  <img align="left"
     height="180em"
     src="https://github-readme-stats.shion.dev/api?username=David-Moraes-dev&show_icons=true&theme=dark"
   />
-  <img
+  <img align="right"
     height="180em"
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-Moraes-dev&layout=compact&theme=dark"
   />
 </p>
+<br clear="both">
 
 ---
 
 ## 🌱 Em aprendizado
 
-<p align="center">
+<p align="left">
 
 `HTML`; `CSS` ; `Git` ; `GitHub` ; `Inglês`
 
