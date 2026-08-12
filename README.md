@@ -66,8 +66,6 @@ Inglês     ▓▓▓▓▓▓░░░░░░░░░░░░░░  30%
 
 Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada:
 
-### 🌐 Projetos Front-End
-
 > Em constante evolução conforme novos conhecimentos são adquiridos.
 
 🔹 **[Projeto 1](https://github.com/David-Moraes-dev/VisualG/blob/main/SISTEMA-BANCARIO.ALG)** — Sistema bancário feito em VisualG para aprimorar a lógica de programação. Cadastro, autenticação, transferência, exclusão de contas...
